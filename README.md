@@ -1,6 +1,6 @@
 TODO:
 
-CTT Patch for Apoapsis Motors (coming in next update)
+CTT Patch for Apoapsis Motors (coming in next update, v1.3)
 
 Maybe some CTT patches for other part packs
 
